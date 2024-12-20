@@ -1,3 +1,27 @@
 ul {
     list-style-type: none;
 }
+body {
+    background-image: url(./chinesefood.jpg)
+}
+nav>ul{
+    display:flex;
+    flex-flow: row;
+    justify-content: center;
+}
+button {
+    font-size: 4.5em;
+    background-color: greenyellow;
+}
+div#Title {
+    font-size:7em;
+    color: greenyellow;
+}
+div#1 {
+ font-size: 5em;
+ color: greenyellow;
+}
+
+div#content {
+    text-align:center;
+}
